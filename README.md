@@ -1,4 +1,5 @@
-## Hi there 👋
+## Programming course 2024-25
+### Alumne: Daniel González Ortega
 
 <!--
 **Dgonzzo/dgonzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
